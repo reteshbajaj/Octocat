@@ -1,1 +1,1 @@
-#What is the "upstream" remote used for?
+upstream remote essentially means a remote to push changes to the source or parent repository. Or to pull I suppose from the same repo
